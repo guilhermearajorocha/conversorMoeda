@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">coinConverter</string>
+    <string name="home_conversor">Conversor</string>
+    <string name="home_historico">Histórico</string>
+    <string name="home_sign">Inscrever-se</string>
+
+    <string name="home_VALOR">Valor R$</string>
+    <string name="home_Converter">CONVERTER</string>
+    <string name="home_EUR">EUR</string>
+    <string name="home_USD">USD</string>
+    <string name="home_CAD">CAD</string>
+</resources>
